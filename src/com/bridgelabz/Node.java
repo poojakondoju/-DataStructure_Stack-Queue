@@ -1,6 +1,7 @@
 package com.bridgelabz;
 
 public class Node {
+
 	public int data;
 	public Node next;
 
